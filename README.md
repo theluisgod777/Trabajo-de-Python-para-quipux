@@ -12,6 +12,26 @@ Incluye los siguientes pasos principales:
 7. **Visualizaciones:** genera seis gráficos que muestran la distribución y relaciones entre variables.  
 8. **Conclusiones:** resume los factores de riesgo más importantes y recomendaciones preventivas.
 
+# Juego del Dragón 🐉
+
+Este programa es un pequeño juego de consola en Python donde el jugador debe entrenar, recuperar energía y prepararse para enfrentarse a un dragón.  
+Durante la partida, el jugador puede realizar diferentes acciones que afectan su nivel, energía, experiencia y vidas.
+
+## Características principales
+- **Sistema de vidas** representado con corazones (`♥` y `♡`).
+- **Gestión de energía y pociones** para mantener al jugador en forma.
+- **Entrenamiento** para ganar experiencia y subir de nivel.
+- **Búsqueda de espada** si el jugador aún no la tiene.
+- **Sistema de combate** con resultados aleatorios (victoria, derrota o empate).
+- **Condiciones dinámicas** para verificar si el jugador está listo para luchar contra el dragón.
+
+## Estructura del juego
+1. Muestra el estado actual del jugador.  
+2. Permite usar pociones, descansar o entrenar.  
+3. Verifica si es posible pelear contra el dragón.  
+4. Simula una batalla con resultados aleatorios.  
+5. Termina el juego si el jugador pierde todas las vidas.
+
 El análisis fue desarrollado originalmente en Google Colab y puede ejecutarse en el siguiente enlace:  
 🔗 [Abrir en Google Colab](https://colab.research.google.com/drive/1PHgTLUXaWP5V0cVU8e5oLeb8yhLVQlYd?usp=sharing)
 
