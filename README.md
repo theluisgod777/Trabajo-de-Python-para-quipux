@@ -32,6 +32,9 @@ Durante la partida, el jugador puede realizar diferentes acciones que afectan su
 4. Simula una batalla con resultados aleatorios.  
 5. Termina el juego si el jugador pierde todas las vidas.
 
+---
+
+
 El análisis fue desarrollado originalmente en Google Colab y puede ejecutarse en el siguiente enlace:  
 🔗 [Actividad de Python](https://colab.research.google.com/drive/1PHgTLUXaWP5V0cVU8e5oLeb8yhLVQlYd?usp=sharing)
 🔗 [Juego del dragon, actividad de bonificacion](https://colab.research.google.com/drive/1fNkilavllOzbyuCinjdQViudd4cN4MG5?authuser=0#scrollTo=TS2uKP10G-3i)
